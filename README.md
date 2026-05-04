@@ -64,7 +64,7 @@ A comprehensive e-commerce application demonstrating production-level architectu
 - CSV export functionality for financial reports
 - IIFE Singleton pattern for modular architecture
 
-🔗 [View Live Demo](https://your-ec-shop.vercel.app) | 📂 [Source Code](https://github.com/ziu222/ec-shop)
+🔗 [View Live Demo](https://your-ec-shop.vercel.app) (The link may die when you checkout :D)| 📂 [Source Code](https://github.com/ziu222/ec-shop)
 
 ---
 
