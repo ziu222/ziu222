@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Ho Chi Minh City Open University Student
 
-Building production-ready applications with modern web technologies
+I enjoy building practical web applications, improving my backend skills, and exploring algorithms and AI through hands-on projects.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btn2812@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziu222)
@@ -15,68 +15,129 @@ Building production-ready applications with modern web technologies
 
 ## 💼 About Me
 
-I'm a university student passionate about full-stack development. I focus on writing clean, maintainable code and understanding the fundamentals that power modern web applications.
+I'm a university student passionate about full-stack development and problem solving.  
+I like building projects that combine clean UI, solid backend logic, and real-world functionality.
 
-- Pursuing Computer Science/Software Engineering
-- Always learning and improving my craft
-- Open to internship opportunities and collaborative projects
+- Studying software development and computer science fundamentals
+- Interested in frontend, backend, databases, and deployment
+- Exploring algorithms, AI, and reinforcement learning through personal projects
+- Open to internships, junior opportunities, and collaborative projects
+
+---
+
+## 🎯 Focus Areas
+
+- Frontend development with HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap
+- Backend development with Python, Flask, and Django
+- Building database-driven applications with MySQL and Redis
+- Solving problems with algorithms such as A* search
+- Exploring AI and reinforcement learning through experimental projects
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Backend Development
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### Interests
+- Algorithms & Data Structures
+- A* Search
+- Reinforcement Learning
+- Full-Stack Web Development
+- Software Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### **EC SHOP** — Full-Featured Marketplace Platform (Basic static website)
+### FE-review
+Frontend e-commerce UI project with both customer-facing pages and admin screens.
 
-A comprehensive e-commerce application demonstrating production-level architecture and design patterns.
+**Tech Stack:** HTML, JavaScript, Tailwind CSS, PostCSS, Autoprefixer, Vercel
 
-**Tech Stack:** HTML5, Vanilla JavaScript (ES5), Tailwind CSS v4, Bootstrap 5.3, LocalStorage
+**Highlights:**
+- Static storefront and admin dashboard structure
+- Tailwind-based styling workflow
+- Multi-page customer and admin interface
+- Vercel-ready deployment setup
 
-**Key Features:**
-- Multi-role authentication system (Admin, Shop Owner, Customer)
-- Real-time inventory management and order processing
-- Cross-tab data synchronization
-- CSV export functionality for financial reports
-- IIFE Singleton pattern for modular architecture
-
-🔗 [View Live Demo](https://your-ec-shop.vercel.app) (The link may die when you checkout :D)| 📂 [Source Code](https://github.com/ziu222/ec-shop)
+[📂 Source Code](https://github.com/ziu222/FE-review)
 
 ---
 
-### ** Projects**
+### cafe-management
+A full-stack café management system designed with role-based access and business workflows.
 
-Explore my other work showcasing React, Django, and full-stack development:
+**Tech Stack:** Flask, SQLAlchemy, MySQL, Redis, HTML, CSS, JavaScript, Bootstrap, Chart.js, Docker, Cloudinary
 
-- 🔹 **React Applications** — Interactive SPAs with modern hooks and state management
-- 🔹 **Django Web Apps** — Server-side rendered applications with Jinja2 templating
-- 🔹 **Python Projects** — Scripts and utilities demonstrating core Python concepts
+**Highlights:**
+- Role-based access control for Admin, Customer, and Employee flows
+- Database-backed management features
+- Containerized setup with Docker
+- Reporting and dashboard-oriented architecture
 
-📂 [View All Repositories](https://github.com/ziu222?tab=repositories)
+[📂 Source Code](https://github.com/ziu222/cafe-management)
+
+---
+
+### final-test
+A JavaScript sliding puzzle project featuring both manual gameplay and an A* solver.
+
+**Tech Stack:** JavaScript, HTML, CSS, A* Search
+
+**Highlights:**
+- Interactive 3x4 sliding puzzle gameplay
+- Keyboard controls and timer support
+- A* search integration for optimal solution finding
+- Step-by-step solution playback
+
+[📂 Source Code](https://github.com/ziu222/final-test)
+
+---
+
+### DeepChessRL
+An experimental Python project exploring chess environments, agents, training flows, and reinforcement learning ideas.
+
+**Tech Stack:** Python, Pygame, Reinforcement Learning
+
+**Highlights:**
+- Modular project structure for agents and training
+- Chess environment and evaluation components
+- GUI-based interaction with Pygame
+- AI-focused experimentation workflow
+
+[📂 Source Code](https://github.com/ziu222/DeepChessRL)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced backend design and API development
+- Django REST Framework
+- Better deployment workflows with Docker
+- Reinforcement learning concepts and applied AI experiments
+- Writing cleaner, more maintainable full-stack applications
 
 ---
 
@@ -92,23 +153,13 @@ Explore my other work showcasing React, Django, and full-stack development:
 
 ---
 
-## Currently Learning
+## 🤝 Connect
 
-- Advanced React patterns (hooks, context, custom hooks)
-- Django REST Framework for API development
-- Full-stack integration with React + Django
-- Python data structures and algorithms
-- Modern deployment strategies (Docker, CI/CD)
+I'm always happy to connect with other developers, learn from new experiences, and collaborate on interesting projects.
 
----
-
-##Connect
-
-I'm always interested in connecting with fellow developers, discussing technology, or exploring collaboration opportunities.
-
-- Open to internships and junior developer positions
-- Available for collaborative projects
-- Feel free to reach out: [your.email@example.com](btn2812@gmail.com)
+- Open to internships and junior developer opportunities
+- Interested in collaborative and learning-focused projects
+- Reach me at: [btn2812@gmail.com](mailto:btn2812@gmail.com)
 
 ---
 
