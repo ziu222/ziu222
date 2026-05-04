@@ -2,12 +2,11 @@
 
 # Hi, I'm Nghia 👋
 
-### Full-Stack Developer | University Student
+### Full-Stack Developer | Ho Chi Minh City Open University Student
 
 Building production-ready applications with modern web technologies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:btn2812@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ziu222)
 
 </div>
@@ -16,12 +15,11 @@ Building production-ready applications with modern web technologies
 
 ## 💼 About Me
 
-I'm a university student passionate about full-stack development, currently building **EC SHOP** — a comprehensive marketplace platform that demonstrates production-level architecture and design patterns. I focus on writing clean, maintainable code and understanding the fundamentals that power modern web applications.
+I'm a university student passionate about full-stack development. I focus on writing clean, maintainable code and understanding the fundamentals that power modern web applications.
 
-- 🎓 Pursuing Computer Science/Software Engineering
-- 💡 Interested in scalable architectures and design patterns
-- 🌱 Always learning and improving my craft
-- 🔍 Open to internship opportunities and collaborative projects
+- Pursuing Computer Science/Software Engineering
+- Always learning and improving my craft
+- Open to internship opportunities and collaborative projects
 
 ---
 
@@ -53,7 +51,7 @@ I'm a university student passionate about full-stack development, currently buil
 
 ## 🚀 Featured Projects
 
-### **EC SHOP** — Full-Featured Marketplace Platform
+### **EC SHOP** — Full-Featured Marketplace Platform (Basic static website)
 
 A comprehensive e-commerce application demonstrating production-level architecture and design patterns.
 
@@ -70,7 +68,7 @@ A comprehensive e-commerce application demonstrating production-level architectu
 
 ---
 
-### **Other Projects**
+### ** Projects**
 
 Explore my other work showcasing React, Django, and full-stack development:
 
@@ -94,7 +92,7 @@ Explore my other work showcasing React, Django, and full-stack development:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced React patterns (hooks, context, custom hooks)
 - Django REST Framework for API development
@@ -104,13 +102,13 @@ Explore my other work showcasing React, Django, and full-stack development:
 
 ---
 
-## 📫 Let's Connect
+##Connect
 
 I'm always interested in connecting with fellow developers, discussing technology, or exploring collaboration opportunities.
 
-- 💼 Open to internships and junior developer positions
-- 🤝 Available for collaborative projects
-- 📧 Feel free to reach out: [your.email@example.com](mailto:your.email@example.com)
+- Open to internships and junior developer positions
+- Available for collaborative projects
+- Feel free to reach out: [your.email@example.com](btn2812@gmail.com)
 
 ---
 
