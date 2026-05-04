@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nghia 👋
+# Hi there, I'm Nghia 👋
 
 ### Full-Stack Developer | Ho Chi Minh City Open University Student
 
