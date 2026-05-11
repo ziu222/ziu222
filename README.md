@@ -23,18 +23,6 @@ I like building projects that combine clean UI, solid backend logic, and real-wo
 - Exploring algorithms, AI, and reinforcement learning through personal projects
 - Open to internships, junior opportunities, and collaborative projects
 
----
-
-## 🎯 Focus Areas
-
-- Frontend development with HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap
-- Backend development with Python, Flask, and Django
-- Building database-driven applications with MySQL and Redis
-- Solving problems with algorithms such as A* search
-- Exploring AI and reinforcement learning through experimental projects
-
----
-
 ## 🛠️ Technical Skills
 
 ### Frontend
