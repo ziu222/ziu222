@@ -89,16 +89,6 @@ A frontend-focused e-commerce and React practice project.
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced backend design and API development
-- Django REST Framework
-- Better deployment workflows with Docker
-- Reinforcement learning concepts and applied AI experiments
-- Writing cleaner, more maintainable full-stack applications
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
