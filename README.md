@@ -110,11 +110,3 @@ I'm always happy to connect with other developers, learn from new experiences, a
 - Reach me at: [btn2812@gmail.com](mailto:btn2812@gmail.com)
 
 ---
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-⭐️ From [ziu222](https://github.com/ziu222)
-
-</div>
