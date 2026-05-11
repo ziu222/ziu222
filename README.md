@@ -71,63 +71,21 @@ I like building projects that combine clean UI, solid backend logic, and real-wo
 
 ## 🚀 Featured Projects
 
-### FE-review
-Frontend e-commerce UI project with both customer-facing pages and admin screens.
-
-**Tech Stack:** HTML, JavaScript, Tailwind CSS, PostCSS, Autoprefixer, Vercel
-
-**Highlights:**
-- Static storefront and admin dashboard structure
-- Tailwind-based styling workflow
-- Multi-page customer and admin interface
-- Vercel-ready deployment setup
-
-[📂 Source Code](https://github.com/ziu222/FE-review)
-
----
-
 ### cafe-management
 A full-stack café management system designed with role-based access and business workflows.
 
 **Tech Stack:** Flask, SQLAlchemy, MySQL, Redis, HTML, CSS, JavaScript, Bootstrap, Chart.js, Docker, Cloudinary
 
-**Highlights:**
-- Role-based access control for Admin, Customer, and Employee flows
-- Database-backed management features
-- Containerized setup with Docker
-- Reporting and dashboard-oriented architecture
-
 [📂 Source Code](https://github.com/ziu222/cafe-management)
 
 ---
 
-### final-test
-A JavaScript sliding puzzle project featuring both manual gameplay and an A* solver.
+### ecommerce react-to-do
+A frontend-focused e-commerce and React practice project.
 
-**Tech Stack:** JavaScript, HTML, CSS, A* Search
+**Tech Stack:** React, JavaScript, HTML, CSS
 
-**Highlights:**
-- Interactive 3x4 sliding puzzle gameplay
-- Keyboard controls and timer support
-- A* search integration for optimal solution finding
-- Step-by-step solution playback
-
-[📂 Source Code](https://github.com/ziu222/final-test)
-
----
-
-### DeepChessRL
-An experimental Python project exploring chess environments, agents, training flows, and reinforcement learning ideas.
-
-**Tech Stack:** Python, Pygame, Reinforcement Learning
-
-**Highlights:**
-- Modular project structure for agents and training
-- Chess environment and evaluation components
-- GUI-based interaction with Pygame
-- AI-focused experimentation workflow
-
-[📂 Source Code](https://github.com/ziu222/DeepChessRL)
+[📂 Source Code](https://github.com/ziu222/ecommerce-react-to-do)
 
 ---
 
