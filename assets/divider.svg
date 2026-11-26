@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 28" width="840" height="28" role="presentation" aria-hidden="true">
+  <style>
+    .pulse { animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="lineLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0088FF" stop-opacity="0"/>
+      <stop offset="28%" stop-color="#0088FF" stop-opacity="0.75"/>
+      <stop offset="82%" stop-color="#7FC4FF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFC600" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="lineRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFC600" stop-opacity="1"/>
+      <stop offset="18%" stop-color="#7FC4FF" stop-opacity="0.95"/>
+      <stop offset="72%" stop-color="#0088FF" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#0088FF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="ballClip">
+      <circle cx="420" cy="14" r="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- Left & right glowing bars -->
+  <rect x="16" y="12.5" width="370" height="3" rx="1.5" fill="url(#lineLeft)"/>
+  <rect x="454" y="12.5" width="370" height="3" rx="1.5" fill="url(#lineRight)"/>
+
+  <!-- Flanking gold diamonds -->
+  <polygon points="397,10.5 400.5,14 397,17.5 393.5,14" fill="#FFC600"/>
+  <polygon points="443,10.5 446.5,14 443,17.5 439.5,14" fill="#FFC600"/>
+
+  <!-- Center Pokeball emblem -->
+  <g clip-path="url(#ballClip)">
+    <rect x="410" y="4" width="20" height="10" fill="#FFC600"/>
+    <rect x="410" y="14" width="20" height="10" fill="#193549"/>
+    <rect x="410" y="12.7" width="20" height="2.6" fill="#0f2233"/>
+  </g>
+  <circle cx="420" cy="14" r="10" fill="none" stroke="#FFC600" stroke-width="2"/>
+  <circle cx="420" cy="14" r="3.8" fill="#0f2233" stroke="#FFC600" stroke-width="1.6"/>
+  <circle class="pulse" cx="420" cy="14" r="1.8" fill="#7FC4FF"/>
+</svg>

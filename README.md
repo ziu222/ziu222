@@ -24,11 +24,17 @@
 
 </div>
 
+<br/>
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
+
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="36" alt="" /> Trainer card
 
 <div align="center">
   <img width="100%" src="./assets/trainer-card.svg" alt="Trainer card: Bùi Trọng Nghĩa, Software Engineer Intern at SCTV. Computer Science at HCMC Open University (final year). Specialty: full-stack web, microservices, AI integration. Currently building Atlas, AI support agents with a human in the loop. Partner: Primal Groudon." />
 </div>
+
+<br/>
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> Tech stack
 
@@ -43,11 +49,14 @@
     <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="36" alt="" /> <b>Databases</b><br/><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases" /></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" height="36" alt="" /> <b>DevOps</b><br/><img height="40" src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" alt="DevOps" /></td>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" height="36" alt="" /> <b>DevOps</b><br/><img height="40" src="https://skillicons.dev/icons?i=docker,kafka,git,githubactions&theme=dark" alt="DevOps" /></td>
     <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif" height="36" alt="" /> <b>Cloud</b><br/><img height="40" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel&theme=dark" alt="Cloud" /></td>
   </tr>
 </table>
 </div>
+
+<br/>
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="36" alt="" /> Featured projects
 
@@ -86,30 +95,48 @@
   </tr>
 </table>
 
+<br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10022.gif" alt="Black Kyurem" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10023.gif" alt="White Kyurem" />
 </p>
+
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="36" alt="" /> GitHub activity
 
 <div align="center">
 
-<img height="180" src="./profile-summary-card-output/cobalt2/0-profile-details.svg" alt="Profile details" />
-<img height="180" src="./profile-summary-card-output/cobalt2/3-stats.svg" alt="Stats" />
+<p>
+  <img width="680" src="./profile-summary-card-output/cobalt2/0-profile-details.svg" alt="Profile details" />
+</p>
 
-<img height="180" src="./profile-summary-card-output/cobalt2/1-repos-per-language.svg" alt="Repos per language" />
-<img height="180" src="./profile-summary-card-output/cobalt2/2-most-commit-language.svg" alt="Most commit language" />
+<p>
+  <img width="332" src="./profile-summary-card-output/cobalt2/3-stats.svg" alt="Stats" />
+  &nbsp;&nbsp;
+  <img width="332" src="./profile-summary-card-output/cobalt2/2-most-commit-language.svg" alt="Most commit language" />
+</p>
 
-<img height="180" src="./profile-summary-card-output/cobalt2/4-productive-time.svg" alt="Productive time" />
+<details>
+  <summary>More stats (streak &amp; productive hours)</summary>
+  <br/>
+  <p>
+    <img height="165" src="https://streak-stats.demolab.com?user=ziu222&background=193549&border=0088FF&stroke=0088FF&ring=FFC600&fire=FFC600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC600&sideLabels=7FC4FF&dates=9FB3C8&hide_border=true" alt="GitHub streak" />
+    &nbsp;&nbsp;
+    <img height="165" src="./profile-summary-card-output/cobalt2/4-productive-time.svg" alt="Productive time" />
+  </p>
+</details>
 
-<img src="https://streak-stats.demolab.com?user=ziu222&background=193549&border=0088FF&stroke=0088FF&ring=FFC600&fire=FFC600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC600&sideLabels=7FC4FF&dates=9FB3C8&hide_border=true" alt="GitHub streak" />
+<br/>
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-<br/><br/>
+<p>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" alt="Blastoise" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" alt="Venusaur" />
+</p>
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" /> &nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="Charizard" /> &nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif" alt="Blastoise" /> &nbsp;
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif" alt="Venusaur" />
+<img width="100%" src="./assets/footer.webp" alt="Nintendo handheld evolution footer: Game Boy Advance, DS, 3DS, Switch" />
 
 </div>
