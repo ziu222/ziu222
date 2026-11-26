@@ -17,6 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # Without checkout the action's `git add` fails with status 128 (no repository).
+      - uses: actions/checkout@v4
+
       - name: Generate cards and commit them to this repository
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
