@@ -15,57 +15,39 @@
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" alt="Bulbasaur" /> &nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" alt="Charmander" /> &nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" alt="Squirtle" /> &nbsp;
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/194.gif" alt="Wooper, my favorite" /> &nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" /> &nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" alt="Eevee" /> &nbsp;
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Gengar" />
+
+<sub>♥ my fav Pokémon: Wooper</sub>
 
 </div>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="36" alt="" /> Trainer card
 
-<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/back/25.gif" alt="Pikachu" />
-
-```ts
-const nghia = {
-  role: "Software Engineer Intern @ SCTV",
-  education: "Computer Science, HCMC Open University (final year)",
-  focus: ["Full-stack web", "Microservices", "AI integration (RAG, Vision)"],
-  currently: "Building Atlas, AI customer-support agents with a human in the loop",
-};
-```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" alt="" />
-</p>
+<div align="center">
+  <img width="100%" src="./assets/trainer-card.svg" alt="Trainer card: Bùi Trọng Nghĩa, Software Engineer Intern at SCTV. Computer Science at HCMC Open University (final year). Specialty: full-stack web, microservices, AI integration. Currently building Atlas, AI support agents with a human in the loop. Partner: Primal Groudon." />
+</div>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> Tech stack
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" alt="" /> **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css&theme=dark" alt="Frontend" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" alt="" /> **Backend languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,cs&theme=dark" alt="Java, Python, C#" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif" alt="" /> **Backend frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,django,nestjs,nodejs,express&theme=dark" alt="Backend frameworks" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="" /> **Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" alt="" /> **DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" alt="DevOps" />
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif" alt="" /> **Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel&theme=dark" alt="Cloud" />
-
+<table>
+  <tr>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" height="36" alt="" /> <b>Frontend</b><br/><img height="40" src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css&theme=dark" alt="Frontend" /></td>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> <b>Backend languages</b><br/><img height="40" src="https://skillicons.dev/icons?i=java,python,cs&theme=dark" alt="Java, Python, C#" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif" height="36" alt="" /> <b>Backend frameworks</b><br/><img height="40" src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,django,nestjs,nodejs,express&theme=dark" alt="Backend frameworks" /></td>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="36" alt="" /> <b>Databases</b><br/><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases" /></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif" height="36" alt="" /> <b>DevOps</b><br/><img height="40" src="https://skillicons.dev/icons?i=docker,git,githubactions&theme=dark" alt="DevOps" /></td>
+    <td align="center" valign="top"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif" height="36" alt="" /> <b>Cloud</b><br/><img height="40" src="https://skillicons.dev/icons?i=aws,cloudflare,vercel&theme=dark" alt="Cloud" /></td>
+  </tr>
+</table>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" alt="" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" alt="" />
-</p>
 
 ## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="36" alt="" /> Featured projects
 
