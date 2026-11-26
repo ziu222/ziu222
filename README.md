@@ -34,7 +34,7 @@
 </div>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> Tech stack<br/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/778.gif" height="36" alt="" /> Tech stack<br/>
   <img width="100%" src="./assets/divider.svg" alt="" />
 </h3>
 
@@ -56,7 +56,7 @@
 </div>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="36" alt="" /> Featured projects<br/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/813.gif" height="36" alt="" /> Featured projects<br/>
   <img width="100%" src="./assets/divider.svg" alt="" />
 </h3>
 
