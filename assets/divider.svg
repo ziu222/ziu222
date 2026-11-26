@@ -1,42 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 28" width="840" height="28" role="presentation" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 26" width="840" height="26" role="presentation" aria-hidden="true">
   <style>
-    .pulse { animation: pulse 2.8s ease-in-out infinite; }
-    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+    .btn { animation: pulse 2.8s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 0.82; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .btn { animation: none; } }
   </style>
   <defs>
     <linearGradient id="lineLeft" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0088FF" stop-opacity="0"/>
-      <stop offset="28%" stop-color="#0088FF" stop-opacity="0.75"/>
-      <stop offset="82%" stop-color="#7FC4FF" stop-opacity="0.95"/>
+      <stop offset="0%" stop-color="#FFC600" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#0088FF" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#7FC4FF" stop-opacity="0.95"/>
       <stop offset="100%" stop-color="#FFC600" stop-opacity="1"/>
     </linearGradient>
     <linearGradient id="lineRight" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#FFC600" stop-opacity="1"/>
-      <stop offset="18%" stop-color="#7FC4FF" stop-opacity="0.95"/>
-      <stop offset="72%" stop-color="#0088FF" stop-opacity="0.75"/>
-      <stop offset="100%" stop-color="#0088FF" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#7FC4FF" stop-opacity="0.95"/>
+      <stop offset="65%" stop-color="#0088FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#193549" stop-opacity="0.65"/>
     </linearGradient>
     <clipPath id="ballClip">
-      <circle cx="420" cy="14" r="10"/>
+      <circle cx="420" cy="13" r="10"/>
     </clipPath>
   </defs>
 
-  <!-- Left & right glowing bars -->
-  <rect x="16" y="12.5" width="370" height="3" rx="1.5" fill="url(#lineLeft)"/>
-  <rect x="454" y="12.5" width="370" height="3" rx="1.5" fill="url(#lineRight)"/>
+  <!-- Left & right divider bars -->
+  <rect x="0" y="11.75" width="398" height="2.5" rx="1.25" fill="url(#lineLeft)"/>
+  <rect x="442" y="11.75" width="398" height="2.5" rx="1.25" fill="url(#lineRight)"/>
 
   <!-- Flanking gold diamonds -->
-  <polygon points="397,10.5 400.5,14 397,17.5 393.5,14" fill="#FFC600"/>
-  <polygon points="443,10.5 446.5,14 443,17.5 439.5,14" fill="#FFC600"/>
+  <polygon points="403,10 406,13 403,16 400,13" fill="#FFC600"/>
+  <polygon points="437,10 440,13 437,16 434,13" fill="#FFC600"/>
 
-  <!-- Center Pokeball emblem -->
+  <!-- Classic Pokeball: Red top facing UP, White bottom facing DOWN -->
+  <circle cx="420" cy="13" r="11.2" fill="none" stroke="#FFC600" stroke-width="1" stroke-opacity="0.8"/>
   <g clip-path="url(#ballClip)">
-    <rect x="410" y="4" width="20" height="10" fill="#FFC600"/>
-    <rect x="410" y="14" width="20" height="10" fill="#193549"/>
-    <rect x="410" y="12.7" width="20" height="2.6" fill="#0f2233"/>
+    <rect x="409" y="2" width="22" height="11" fill="#EE1515"/>
+    <ellipse cx="416.5" cy="6.8" rx="4.2" ry="2" transform="rotate(-22 416.5 6.8)" fill="#FF6B6B" opacity="0.65"/>
+    <rect x="409" y="13" width="22" height="11" fill="#F8FAFC"/>
+    <path d="M410 19.5 Q420 23.5 430 19.5 L430 24 L410 24 Z" fill="#CBD5E1"/>
+    <rect x="409" y="11.7" width="22" height="2.6" fill="#0F2233"/>
   </g>
-  <circle cx="420" cy="14" r="10" fill="none" stroke="#FFC600" stroke-width="2"/>
-  <circle cx="420" cy="14" r="3.8" fill="#0f2233" stroke="#FFC600" stroke-width="1.6"/>
-  <circle class="pulse" cx="420" cy="14" r="1.8" fill="#7FC4FF"/>
+  <circle cx="420" cy="13" r="10" fill="none" stroke="#0F2233" stroke-width="1.8"/>
+  <circle cx="420" cy="13" r="3.8" fill="#0F2233"/>
+  <circle class="btn" cx="420" cy="13" r="2.1" fill="#FFFFFF"/>
 </svg>
