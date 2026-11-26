@@ -24,19 +24,19 @@
 
 </div>
 
-<br/>
-<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
-
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="36" alt="" /> Trainer card
+<h3>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" height="36" alt="" /> Trainer card<br/>
+  <img width="100%" src="./assets/divider.svg" alt="" />
+</h3>
 
 <div align="center">
-  <img width="100%" src="./assets/trainer-card.svg" alt="Trainer card: Bùi Trọng Nghĩa, Software Engineer Intern at SCTV. Computer Science at HCMC Open University (final year). Specialty: full-stack web, microservices, AI integration. Currently building Atlas, AI support agents with a human in the loop. Partner: Primal Groudon." />
+  <img width="100%" src="./assets/trainer-card.svg" alt="Trainer card: Bùi Trọng Nghĩa, Software Engineer Intern at SCTV. Computer Science at HCMC Open University (final year). Specialty: full-stack web, microservices, AI integration. Currently building Atlas, AI support agents with a human in the loop. Partner: Primal Groudon. 8 Gym Badges collected." />
 </div>
 
-<br/>
-<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
-
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> Tech stack
+<h3>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" height="36" alt="" /> Tech stack<br/>
+  <img width="100%" src="./assets/divider.svg" alt="" />
+</h3>
 
 <div align="center">
 <table>
@@ -55,10 +55,10 @@
 </table>
 </div>
 
-<br/>
-<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
-
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="36" alt="" /> Featured projects
+<h3>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" height="36" alt="" /> Featured projects<br/>
+  <img width="100%" src="./assets/divider.svg" alt="" />
+</h3>
 
 <table>
   <tr>
@@ -101,9 +101,10 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10023.gif" alt="White Kyurem" />
 </p>
 
-<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
-
-## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="36" alt="" /> GitHub activity
+<h3>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" height="36" alt="" /> GitHub activity<br/>
+  <img width="100%" src="./assets/divider.svg" alt="" />
+</h3>
 
 <div align="center">
 
