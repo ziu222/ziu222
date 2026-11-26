@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-btn2812-FFC600?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=193549)](https://linkedin.com/in/btn2812) [![Email](https://img.shields.io/badge/Email-btn2812%40gmail.com-FFC600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=193549)](mailto:btn2812@gmail.com) ![Profile views](https://komarev.com/ghpvc/?username=ziu222&label=Profile%20views&color=FFC600&labelColor=193549&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-btn2812-FFC600?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=193549)](https://linkedin.com/in/btn2812) [![Email](https://img.shields.io/badge/Email-btn2812%40gmail.com-FFC600?style=for-the-badge&logo=gmail&logoColor=white&labelColor=193549)](mailto:btn2812@gmail.com) ![Profile views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fziu222&label=PROFILE%20VIEWS&labelColor=%23193549&countColor=%23FFC600&style=for-the-badge)
 
 <br/>
 
